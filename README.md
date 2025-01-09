@@ -16,6 +16,8 @@ orange
 
 ...
 
+![wildcard_convert](https://github.com/user-attachments/assets/213681fb-9435-41b2-905f-9ddbddb643c1)
+
 If you select the file using the dialogbox of this simple script it will be converted to a new file showing it like this:
 
 {apple|mango|damaged_apple|orange|...}
