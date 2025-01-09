@@ -7,9 +7,13 @@ Usage:
 In this example we have a wildcard called ../blub/fruits.txt with the following words:
 
 apple
+
 mango
+
 damaged apple
+
 orange
+
 ...
 
 If you select the file using the dialogbox of this simple script it will be converted to a new file showing it like this:
